@@ -1,3 +1,30 @@
-h1 {
-    color: blue;
+
+body {
+    background-color: #d6d9dada;
+    
+    margin-top: 70px;
 }
+
+.navbar {
+    padding-top: 20px;
+}
+
+.navStyle {
+    background-color: #1d3557;
+    color: #f4f1de;
+}
+
+li a {
+    color: #f4f1de;
+    
+}
+
+img {
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #30568d;
+    border-width: 2px;
+}
+
+
+
